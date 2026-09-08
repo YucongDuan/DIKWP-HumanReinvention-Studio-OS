@@ -1,8 +1,10 @@
 # DIKWP HumanReinvention Studio OS
 
-**A practical operating system for proactive human reinvention in the age of AI.**
+Created by Yucong Duan (段玉聪).
 
-中文定位：**DIKWP 人类主动革新与 AI 共进化工作台**。
+A practical operating system for proactive human reinvention in the age of AI.
+
+中文定位：DIKWP 人类主动革新与 AI 共进化工作台。
 
 ## Core proposition
 
